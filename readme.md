@@ -6,4 +6,4 @@ This project was created to practice working with the DOM, events, state, local 
 
 <br>
 
-<img src="images/screen.png" width="300">
+<img src="images/screen.png" width="350">
