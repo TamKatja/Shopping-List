@@ -1,7 +1,9 @@
 # Shopping List
 
-Vanilla JavaScript shopping list app from my Modern JS From The Beginning course.
+Vanilla JavaScript Shopping List application from my Modern JavaScript From the Beginning course.
 
-This project was created to focus on working with the DOM, events, state, local storage and other fundamentals of JavaScript.
+This project was created to practice working with the DOM, events, state, local storage and other JavaScript fundamentals.
+
+<br>
 
 <img src="images/screen.png" width="300">
